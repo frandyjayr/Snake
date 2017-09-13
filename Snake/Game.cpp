@@ -124,27 +124,26 @@ void Game::render()
  ****************************************************************************************************************/
 void Game::handlePlayerInput(sf::Keyboard::Key key, bool isPressed)
 {
-	Direction direction;
 
 	// change the direction the snake if facing
 	if (key == sf::Keyboard::W)
 	{
-		direction = Up;
+		mSnake->changeDirection(Up);
 	}
 	if (key == sf::Keyboard::S)
 	{
-		direction = Down;
+		mSnake->changeDirection(Down);
 	}
 	if (key == sf::Keyboard::A)
 	{
-		direction = Left;
+		mSnake->changeDirection(Left);
 	}
 	if (key == sf::Keyboard::D)
 	{
-		direction = Right;
+		mSnake->changeDirection(Right);
 	}
 
-	mSnake->changeDirection(direction);
+	
 }
 
 /*****************************************************************************************************************
