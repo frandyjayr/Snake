@@ -7,7 +7,7 @@ This is the first SFML game that I made to test out the capability of the Simple
 ## Download Instructions
 Snake clone can only be ran on Windows as there is no compatible version for Mac. 
 
-(1) Click the following Link: bit.ly/SnakeCloneFU
+(1) Click the following Link: [Windows Download](bit.ly/SnakeCloneFU)
 
 (2) Extract the files to desired location on your computer
 
