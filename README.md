@@ -1,5 +1,5 @@
 # Snake
-Snake game created with C++ using the SFML API
+Clone of classic Snake game created with C++ using the Simple Fast Multimedia Library (SFML) Framework
 
 ## Description
 This is the first SFML game that I made to test out the capability of the Simple Fast Multimedia Library. The game has a working menu that allows the option of playing or exiting the game. Within the game, the snake can collide with the walls or itself, causing the game to restart. There is also an active score tracker to keep track of your highest score. To make the game more exciting, I added sound effects whenever the snake eats an apple or collides with the wall/itself.
