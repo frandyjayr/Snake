@@ -18,8 +18,4 @@ Snake clone can only be ran on Windows as there is no compatible version for Mac
 Move using 'W', 'A', 'S', 'D', to go up, left, down, and right, respectively.
 
 
-![snake game b small](https://user-images.githubusercontent.com/23549050/31362106-a28a0a18-ad0b-11e7-9da2-3579ca9493a7.png) ![capture](https://user-images.githubusercontent.com/23549050/52458090-2d3eb200-2b12-11e9-960e-3c0abd22b092.JPG)
-
-
-
-snake game b small
+![capture](https://user-images.githubusercontent.com/23549050/52458090-2d3eb200-2b12-11e9-960e-3c0abd22b092.JPG) ![snake game b small](https://user-images.githubusercontent.com/23549050/31362106-a28a0a18-ad0b-11e7-9da2-3579ca9493a7.png) 
