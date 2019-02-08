@@ -11,7 +11,7 @@ Snake clone can only be ran on Windows as there is no compatible version for Mac
 
 (2) Extract the files to desired location on your computer
 
-(3) Run the Snake.exe file (Note a warning may appear that prevents you from running the game. Just click "Run Anyway" to run the game);
+(3) Run the Snake.exe file (Note a warning may appear that prevents you from running the game. Just click "Run Anyway" to run the game)
 
 ## How To Play
 
